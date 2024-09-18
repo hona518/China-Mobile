@@ -32,6 +32,14 @@
     ],
     "rules": [
       {
+        "domain": [
+          "ghproxy.com",
+          "cdn.jsdelivr.net",
+          "testingcf.jsdelivr.net"
+        ],
+        "server": "dns_direct"
+      },
+      {
         "outbound": "any",
         "server": "dns_direct"
       },
