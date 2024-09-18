@@ -86,7 +86,7 @@
       "outbounds": [
          "direct",
          "自动选择",
-            
+         "{all}"   
        ],
        "default": "自动选择"
     },
@@ -94,7 +94,7 @@
        "type": "urltest",
        "tag": "自动选择",
        "outbounds": [
-                  
+       "{all}"           
        ],
        "url": "https://www.gstatic.com/generate_204",
        "interval": "3m",
