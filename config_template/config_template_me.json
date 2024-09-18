@@ -113,8 +113,7 @@
      {
        "type": "dns",
        "tag": "dns-out"
-     },  
-     
+     }   
   ],
   "route": {
     "rule_set": [
